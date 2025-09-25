@@ -1,3 +1,5 @@
-# Wildfire-Prediction-Team5
-Wildfire risk prediction using satellite and climate data.
-The Wildfire Prediction Model project tasks a team of three students with developing a machine learning model to predict wildfire risk using satellite imagery and climate data, such as NASA’s FIRMS (Fire Information for Resource Management System) or NOAA datasets. The project focuses on integrating spatial and temporal features to forecast wildfire likelihood, leveraging models like Long Short-Term Memory (LSTM) networks or Convolutional Neural Networks (CNNs). Students will preprocess heterogeneous data (e.g., satellite images, temperature, humidity), train and optimize a predictive model, and visualize results for public or policymaker use. Ethical considerations, such as avoiding false alarms and ensuring equitable risk assessment across regions, are critical. Deliverables include a reproducible codebase, a trained model, a comprehensive report, and a demo showcasing wildfire risk maps. This project addresses real-world environmental challenges, preparing students for careers in climate-focused AI applications.
+# AirQuality Prediction-Team 5
+- Air Quality Prediction (Environmental AI) 
+- Objective: Implement a time-series model (e.g., LSTM) to forecast air quality using sensor data (e.g., EPA Air Quality dataset). 
+- Significance: Informs public health policies and urban planning, mitigating risks from poor air quality. 
+- Skills Developed: Time-series forecasting, sensor data integration, ethical public health considerations. 
